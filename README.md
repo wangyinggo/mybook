@@ -1,2 +1,2 @@
-# Initial page
+# 知识笔记
 
